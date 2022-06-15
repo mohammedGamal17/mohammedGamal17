@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mohammedGamal17
+- 👋 Hi, I’m Mohammed Gamal
 - 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning flutter.
-- 💞️ I’m looking to collaborate on Google
+- 🌱 I’m currently devolping mobile app using flutter.
 - 📫 How to reach me mohammed_gamal7@outlook.com
 
 <!---
