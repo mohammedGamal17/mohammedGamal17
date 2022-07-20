@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Gamal</h1>
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&color=086B00&center=true&vCenter=true&multiline=true&height=100&lines=I'm+Mohammed+Gamal+;Flutter+Developer)](https://git.io/typing-svg)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedgamal17" alt="mohammedgamal17" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&lines=I'm+Mohammed+Gamal;Mobile+Application+Developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Mobile Application Development**
 
