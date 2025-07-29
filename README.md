@@ -5,8 +5,8 @@
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedgamal17" alt="mohammedgamal17" /
 
-- 🌱 I’m currently **Senior .NET Full stack**
-
+- 🌱 I’m currently **a senior .NET full stack developer**.
+  
 - 👨‍💻 All of my projects are available at [https://github.com/mohammedGamal17](https://github.com/mohammedGamal17)
 
 - 📫 How to reach me **mohammed.gamal.mahmoud7@gmail.com**
